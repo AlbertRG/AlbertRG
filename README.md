@@ -8,6 +8,7 @@
 ------------
 
 <h3>😀About me</h3>
+
 >I'm a software development engineer currently studying for my degree. Currently learning HTML,CSS and databases. I'm a geek/nerd, role-playing game and video games.
 
 ------------
