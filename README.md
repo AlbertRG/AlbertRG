@@ -1,5 +1,5 @@
 <div align="center">
-<h3>Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
+<h1>Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <a href="https://www.linkedin.com/in/albertogarrido94/">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white> </a>
@@ -13,7 +13,9 @@
 
 <h3>😀 About me</h3>
 
->I'm a software development engineer currently studying for my degree. Currently learning HTML,CSS and databases. I'm a geek/nerd, role-playing game and video games.
+>I'm a software development engineer student, interested in always continuing to learn new things.
+> 
+>Big fan of video games and role-playing games.
 
 ------------
 
