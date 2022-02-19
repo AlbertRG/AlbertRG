@@ -1,19 +1,23 @@
-<h3>Hi! I'm Alberto <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
+<div align="center">
+<h3>Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
 
 <a href="https://www.linkedin.com/in/albertogarrido94/">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white> </a>
 <a href="https://www.google.com">
 <img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white> </a>
 
+![](https://komarev.com/ghpvc/?username=AlbertRG&style=flat-square)
+</div>
+
 ------------
 
-<h3>😀About me</h3>
+<h3>😀 About me</h3>
 
 >I'm a software development engineer currently studying for my degree. Currently learning HTML,CSS and databases. I'm a geek/nerd, role-playing game and video games.
 
 ------------
 
-<h3>💻Technologies and Tools</h3>
+<h3>💻 Technologies and Tools</h3>
 
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -31,8 +35,8 @@
 ------------
 
 <div>
-<h3>📊Git Stats</h3>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlbertRG&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=onedark" />
+<h3>📊 Git Stats</h3>
+<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=AlbertRG&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=onedark" />
 
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertRG&layout=compact&theme=onedark&hide_border=true" />
+<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertRG&layout=compact&theme=onedark&hide_border=true" />
 </div>
