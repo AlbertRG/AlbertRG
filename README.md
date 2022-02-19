@@ -39,9 +39,11 @@
 
 ------------
 
-<div>
 <h3>📊 Git Stats</h3>
-<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=AlbertRG&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=onedark" />
 
-<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertRG&layout=compact&theme=onedark&hide_border=true" />
+<div align="center">
+<img height="215em" src="https://github-readme-stats.vercel.app/api?username=AlbertRG&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=onedark" />
+</div>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertRG&layout=compact&theme=onedark&hide_border=true" />
 </div>
