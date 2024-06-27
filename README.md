@@ -13,7 +13,7 @@
 
 <h3>😀 About me</h3>
 
->I'm a software development engineer student, interested in always continuing to learn new things.
+>I'm a software development engineer, interested in always continuing to learn new things.
 > 
 >Big fan of video games and role-playing games.
 
@@ -41,11 +41,11 @@
 
 <h3>📊 Git Stats</h3>
 <div align="center">
-  <img height="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertRG&layout=donut-vertical&theme=ocean_dark&hide_border=true&&langs_count=10&hide=cython,roff,xslt&exclude_repo=Easywash-Web" />
+  <img height="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertRG&layout=donut-vertical&theme=ocean_dark&hide_border=true&&langs_count=8&hide=cython,roff,xslt&exclude_repo=Easywash-Web" />
 </div>
 <div>
   <img height="20em"/>
 </div>
 <div align="center">
-  <img height="215em" src="https://github-readme-stats.vercel.app/api?username=AlbertRG&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=onedark" />
+  <img height="215em" src="https://github-readme-stats.vercel.app/api?username=AlbertRG&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=ocean_dark&custom_title=GitHub&nbsp;Stats" />
 </div>
