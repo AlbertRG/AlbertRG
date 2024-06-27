@@ -32,18 +32,20 @@
 
 <div>
 <h3> 🎯 Focused on</h3>
-<p align="center"> <a href="https://github.com/AlbertRG/hyperblog">
-  <img align="middle" height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertRG&repo=hyperblog&theme=onedark&hide_border=true" />
+<p align="center"> <a href="https://github.com/AlbertRG/ShoppingList">
+  <img align="middle" height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertRG&repo=ShoppingList&theme=ocean_dark&hide_border=true" />
 </a> </p>
 </div>
 
 ------------
 
 <h3>📊 Git Stats</h3>
-
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertRG&layout=donut-vertical&theme=ocean_dark&hide_border=true&&langs_count=10&hide=cython,roff,xslt" />
+  <img height="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertRG&layout=donut-vertical&theme=ocean_dark&hide_border=true&&langs_count=10&hide=cython,roff,xslt&exclude_repo=Easywash-Web" />
+</div>
+<div>
+  <img height="20em"/>
 </div>
 <div align="center">
-<img height="215em" src="https://github-readme-stats.vercel.app/api?username=AlbertRG&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=onedark" />
+  <img height="215em" src="https://github-readme-stats.vercel.app/api?username=AlbertRG&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=onedark" />
 </div>
