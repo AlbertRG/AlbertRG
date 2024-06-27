@@ -42,7 +42,7 @@
 <h3>📊 Git Stats</h3>
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertRG&layout=compact&theme=merko&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertRG&layout=donut-vertical&theme=ocean_dark&hide_border=true&&langs_count=10&hide=cython,roff,xslt" />
 </div>
 <div align="center">
 <img height="215em" src="https://github-readme-stats.vercel.app/api?username=AlbertRG&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=onedark" />
