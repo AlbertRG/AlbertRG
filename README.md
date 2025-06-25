@@ -17,10 +17,10 @@
 
 <h2>💻 Technologies and Tools</h2>
 <div align="center">
-
+  
+  [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
   [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
   [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) 
-  [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
   [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
   
   [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
