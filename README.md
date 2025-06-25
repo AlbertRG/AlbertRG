@@ -8,7 +8,7 @@
 <h2>About Me</h2>
 <ul>
   <li>👨‍💻 I'm a Software Development Engineer passionate about building high-quality Android applications.</li>
-  <li>📱 Currently focused on native Android development using <strong>Kotlin</strong> and <strong>Java</strong>, targeting Android 13+ devices.</li>
+  <li>📱 Currently focused on native Android development using <strong>Kotlin</strong></li>
   <li>🛠️ Experienced with <strong>Jetpack Compose</strong>, <strong>Hilt</strong>, <strong>Firebase</strong>, and modern Android architecture components.</li>
   <li>🎯 Constant learner, always exploring new tools, frameworks, and best practices in mobile development.</li>
   <li>🎮 Enthusiast of video games, tabletop RPGs, and all things tech.</li>
